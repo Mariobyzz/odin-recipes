@@ -1,0 +1,2 @@
+Proyecto de creación de una web de recetas donde pongo en práctica mis conocimientos de html y git.
+Cuando haya acabado el proyecto habré demostrado soltura en HTML, commits de git, enlaces de HTML y importación de imágenes y distribución de una web en HTML.
